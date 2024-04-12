@@ -1,4 +1,4 @@
-Encryptor is a encapsulation class of a saved key for a linkedlist in a unformatted stream of messages.
+Encryptor is class or saved key in a linkedlist that conforms unformatted stream of messages and benefits from encapsulation.
 By Elikplim Nyakutse Berrocal
 Elikplim's Org. asset line
 
